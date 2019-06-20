@@ -1,0 +1,236 @@
+Usage: ./run.sh <filename>
+Defaulting to TestData.snw
+
+[31mTHREAT DETECTED[0m
+===========================
+ [34mThreat type:[0m   HP Ship
+ [34mLocation:[0m      (53, 20)
+ [34mCertainty:[0m     0.759
+ [34mAppearance:[0m
+
+            +  ++    +
+                    + 
+           ++ +  + +  
+         +  + ++     +
+        ++        +  +
+        +     +       
+           +++ ++++++ 
+           +       +  
+          ++  +  +++++
+
+[31mTHREAT DETECTED[0m
+===========================
+ [34mThreat type:[0m   HP Ship
+ [34mLocation:[0m      (54, 20)
+ [34mCertainty:[0m     0.759
+ [34mAppearance:[0m
+
+           +  ++    + 
+                   +  
+          ++ +  + +  +
+        +  + ++     + 
+        +        +  + 
+             +        
+          +++ ++++++  
+          +       +  +
+         ++  +  ++++++
+
+[31mTHREAT DETECTED[0m
+===========================
+ [34mThreat type:[0m   HP Ship
+ [34mLocation:[0m      (55, 20)
+ [34mCertainty:[0m     0.759
+ [34mAppearance:[0m
+
+          +  ++    +  
+                  +   
+         ++ +  + +  + 
+          + ++     +  
+                +  +  
+            +         
+         +++ ++++++   
+         +       +  + 
+        ++  +  ++++++ 
+
+[31mTHREAT DETECTED[0m
+===========================
+ [34mThreat type:[0m   HP Ship
+ [34mLocation:[0m      (55, 26)
+ [34mCertainty:[0m     0.796
+ [34mAppearance:[0m
+
+         +++ ++++++   
+         +       +  + 
+        ++  +  ++++++ 
+           +  ++      
+        +     ++  +   
+               +      
+          +++++  ++++ 
+         +++    +  +  
+        +++++  + +++++
+
+[31mTHREAT DETECTED[0m
+===========================
+ [34mThreat type:[0m   HP Ship
+ [34mLocation:[0m      (64, 34)
+ [34mCertainty:[0m     0.870
+ [34mAppearance:[0m
+
+        +++++++ ++ +  
+         ++ +  ++   + 
+          + + ++++ +  
+         +    ++   ++ 
+         ++++         
+        + + +  + +  + 
+           ++ ++  ++ +
+         ++    +      
+          + ++++++++  
+
+[31mTHREAT DETECTED[0m
+===========================
+ [34mThreat type:[0m   HP Ship
+ [34mLocation:[0m      (43, 62)
+ [34mCertainty:[0m     0.778
+ [34mAppearance:[0m
+
+         +  +  +      
+        ++ ++         
+                 +    
+              +    +  
+                  +   
+            +  +      
+             ++ + +   
+         ++  + +   +  
+         +++++ ++ ++  
+
+[31mTHREAT DETECTED[0m
+===========================
+ [34mThreat type:[0m   HP Ship
+ [34mLocation:[0m      (43, 68)
+ [34mCertainty:[0m     0.759
+ [34mAppearance:[0m
+
+             ++ + +   
+         ++  + +   +  
+         +++++ ++ ++  
+              ++     +
+            + ++ +    
+         +    + +     
+        +    +++  + ++
+        +++     + ++  
+           +  ++ +++  
+
+[31mTHREAT DETECTED[0m
+===========================
+ [34mThreat type:[0m   HP Torpedo
+ [34mLocation:[0m      (0, 1)
+ [34mCertainty:[0m     0.872
+ [34mAppearance:[0m
+
+         +  ++     
+             +     
+        +   ++     
+         ++++++ + +
+          + +   +  
+        +++   + ++ 
+          +++++  + 
+         +   +   + 
+         ++    +   
+          ++++ +   
+        +   ++  +  
+
+[31mTHREAT DETECTED[0m
+===========================
+ [34mThreat type:[0m   HP Torpedo
+ [34mLocation:[0m      (58, 17)
+ [34mCertainty:[0m     0.766
+ [34mAppearance:[0m
+
+         +  +    + 
+             + +   
+          + +  +  +
+          ++    +  
+               +   
+         +  + +  + 
+         ++     +  
+             +  +  
+         +         
+        + ++++++   
+              +  + 
+
+[31mTHREAT DETECTED[0m
+===========================
+ [34mThreat type:[0m   HP Torpedo
+ [34mLocation:[0m      (51, 72)
+ [34mCertainty:[0m     0.787
+ [34mAppearance:[0m
+
+         +         
+        +        + 
+          + ++  + +
+        + ++       
+         +++    +  
+                 + 
+           +++   + 
+         +      +  
+               +   
+          + ++  +  
+                   
+
+[31mTHREAT DETECTED[0m
+===========================
+ [34mThreat type:[0m   HP Torpedo
+ [34mLocation:[0m      (68, 78)
+ [34mCertainty:[0m     0.766
+ [34mAppearance:[0m
+
+             +     
+           +++    +
+        +     +    
+            +  +   
+                   
+         +   ++ +  
+           ++ ++   
+          +      + 
+        ++  +  ++  
+            + +++  
+             +++   
+
+[31mTHREAT DETECTED[0m
+===========================
+ [34mThreat type:[0m   HP Torpedo
+ [34mLocation:[0m      (25, 79)
+ [34mCertainty:[0m     0.830
+ [34mAppearance:[0m
+
+           + +     
+        +    +    +
+         ++  ++    
+        +++ + +  + 
+          ++ + +   
+         ++  +    +
+         +++++  ++ 
+         +++ +  ++ 
+        + ++       
+        +++++ + +  
+          + + +    
+
+[31mTHREAT DETECTED[0m
+===========================
+ [34mThreat type:[0m   HP Torpedo
+ [34mLocation:[0m      (61, 85)
+ [34mCertainty:[0m     0.766
+ [34mAppearance:[0m
+
+                 + 
+        +    + ++  
+        +          
+           + +     
+         +++  +    
+        + +   +  + 
+            ++     
+         +   +  +  
+           +   +   
+              + +  
+                   
+
